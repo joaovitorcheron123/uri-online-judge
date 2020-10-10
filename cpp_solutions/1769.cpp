@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main(int argc, const char * argv[])
-{
+int main() {
     int cpf[11];
     int b1, b2;
     string line;
